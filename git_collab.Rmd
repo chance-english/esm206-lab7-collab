@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(palmerpenguins)
 ```
 
 Hi Partner!
@@ -22,6 +23,6 @@ plot(cars)
 
 And here is where I will work:
 ```{r Michelle}
-
+penguins
 ```
 
